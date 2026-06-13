@@ -111,3 +111,21 @@ https://ble.ir/UDLbot
 - وب سایت : avasam.ir 
 
 
+
+---
+
+## فایل های دانلود شده
+
+- [HIaLAcWGT3_key=fM5ervJeJx](https://github.com/molavimohammad227-dutcom/UDL-3/tree/main/downloads/HIaLAcWGT3_key=fM5ervJeJx)
+
+---
+
+<!-- AVASAM_HELP -->
+
+## 📦 دانلود همه فایل ها یکجا
+
+**[⬇️ دانلود کل مخزن به صورت ZIP](https://github.com/molavimohammad227-dutcom/UDL-3/archive/refs/heads/main.zip)**
+
+---
+
+طراحی شده توسط [آواسام](https://avasam.ir) 💚
